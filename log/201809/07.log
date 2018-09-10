@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2018-09-07T17:55:21+08:00 ] 127.0.0.1 GET /api/v1/time
+[ error ] [0]致命错误: Call to undefined method app\lib\exception\SignException::goCheck()
+[ error ] Fatal error: Call to undefined method app\lib\exception\SignException::goCheck()
