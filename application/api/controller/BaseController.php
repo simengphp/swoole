@@ -16,7 +16,7 @@ class BaseController extends Controller
 {
     public function _initialize()
     {
-        $this->checkSignAuth();
+        //$this->checkSignAuth();
     }
 
     /**验证是否是正常的请求*/
